@@ -66,10 +66,10 @@ df = cargar_datos()
 # Título, Subtítulo y Videos
 html_cabecera = """
 <div class="video-background-container">
-    <video class="video-item" autoplay muted loop src="./static/video1.mp4"></video>
-    <video class="video-item" autoplay muted loop src="./static/video2.mp4"></video>
-    <video class="video-item" autoplay muted loop src="./static/video3.mp4"></video>
-    <video class="video-item" autoplay muted loop src="./static/video4.mp4"></video>
+    <video class="video-item" autoplay muted loop src="static/video1.mp4"></video>
+    <video class="video-item" autoplay muted loop src="static/video2.mp4"></video>
+    <video class="video-item" autoplay muted loop src="static/video3.mp4"></video>
+    <video class="video-item" autoplay muted loop src="static/video4.mp4"></video>
 </div>
 
 <style>
